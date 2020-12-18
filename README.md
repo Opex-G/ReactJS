@@ -1,3 +1,6 @@
+The project is an interactive Movie Database app using ReactJS.
+We're using an API to get information about movies and display them on screen using react components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
